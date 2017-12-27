@@ -1,20 +1,19 @@
 # STEEMPUNK-NET
 
-Whitepaper
+Whitepaper - v1.0
 
-v1.0
-
-https://www.steempunk.net/media/cache/Steempunknet/Press/steempunknet-header-1000x700.jpg
+![](https://www.steempunk.net/media/cache/Steempunknet/Press/steempunknet-header-1000x700.jpg)
 
 ---
 
 # Spis treści
 
-**STEEMPUNK-NET**                   ..1
+```
+STEEMPUNK-NET                       ..1
     Spis treści                     ..2
     Koncepcja gry                   ..3
     Potencjał rynkowy               ..3
-**Rozgrywka**                       ..4
+Rozgrywka                           ..4
     Klasy postaci                   ..4
     Atrybuty                        ..4
     Przedmioty w grze               ..5
@@ -24,8 +23,9 @@ https://www.steempunk.net/media/cache/Steempunknet/Press/steempunknet-header-100
     System walki                    ..6
         Algorytm Walki V1           ..7
         Sekwencja zdarzeń w walce   ..7
-**Podział zysków**                  ..8
+Podział zysków                      ..8
     Generowanie zysków              ..8
+```
 
 ---
 
