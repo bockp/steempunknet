@@ -15,6 +15,6 @@ STEEMPUNK-NET is a browser game that combines blockchain technology, social inte
 Where can I find more information?
 ------
 
-- [Wiki](https://github.com/pcsg/steempunknet/wiki/STEEMPUNK-NET)
+- [Wiki](https://github.com/pcsg/steempunknet/wiki)
 - [Website](https://www.steempunk.net/)
 - [FAQ](https://www.steempunk.net/FAQ)
