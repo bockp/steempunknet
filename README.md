@@ -24,4 +24,4 @@ Where can I find more information?
 - [Wiki](https://github.com/pcsg/steempunknet/wiki)
 - [Website](https://www.steempunk.net/)
 - [FAQ](https://www.steempunk.net/FAQ)
-- [Wiki FAQ](https://github.com/pcsg/steempunknet/wiki)
+- [Wiki FAQ](https://github.com/pcsg/steempunknet/wiki/faq-v1)
