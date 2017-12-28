@@ -2,7 +2,7 @@
 
 Whitepaper - v1.0
 
-![](https://www.steempunk.net/media/cache/Steempunknet/Press/steempunknet-header-1000x700.jpg)
+![SPN](https://www.steempunk.net/media/cache/Steempunknet/Press/steempunknet-header-1000x700.jpg)
 
 ---
 
@@ -130,6 +130,7 @@ Zum anderen können Quests Anforderungen an die Bildung desjenigen Helden stelle
 
 
 ### Gegenstände im Spiel
+
 Die Gegenstände im Spiel können auf 2 Arten in den Besitz des Spielers gelangen:
 
 - Durch das Finden eines Gegenstandes. Einige Gegenstände werden zufällig auf verschieden 
