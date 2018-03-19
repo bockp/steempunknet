@@ -1,3 +1,6 @@
+![SPN](https://steemit-production-imageproxy-thumbnail.s3.amazonaws.com/U5dt7rsTaPcdTdSHf6YVDubmbyhjfdd_1680x8400)
+
+
 STEEMPUNK-NET
 ======
 
@@ -28,6 +31,8 @@ Where can I find more information?
 
 STEEMPUNK-NET loves Utopian
 ======
+
+![Utopian](https://utopian.io/img/utopian-sole.png)
 
 How can I submit something to STEEMPUNK-NET via Utopian?
 ------
