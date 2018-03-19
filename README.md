@@ -41,8 +41,7 @@ Dear SPN player and welcome guest, first of all thank you for your interest. If 
 
 We recommend that if you want to submit issues, contributions or ideas, you can do so via the following repository:
 
-https://github.com/pcsg/steempunk-net-browser
-https://github.com/pcsg/steemit-steempunk-housing
+- https://github.com/pcsg/steempunk-net-browser
 
 
 STEEMPUNK-NET loves Utopian
