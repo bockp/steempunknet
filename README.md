@@ -59,7 +59,9 @@ For example, our main repositories for SPN:
 - https://github.com/pcsg/steempunk-net-browser
 - https://github.com/pcsg/steemit-steempunk-locale
 - https://github.com/pcsg/steemit-steempunk-housing
+- https://github.com/pcsg/steemit-steempunk-template
 - https://github.com/pcsg/steempunknet-discord-bot
+
 
 The whole game is based on QUIQQER, here are additional repositories in the two-digit range. For example, some can be found at:
 
