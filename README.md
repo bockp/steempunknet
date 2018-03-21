@@ -58,6 +58,7 @@ For example, our main repositories for SPN:
 
 - https://github.com/pcsg/steempunk-net-browser
 - https://github.com/pcsg/steemit-steempunk-locale
+- https://github.com/pcsg/steemit-steempunk-battle
 - https://github.com/pcsg/steemit-steempunk-housing
 - https://github.com/pcsg/steemit-steempunk-template
 - https://github.com/pcsg/steempunknet-discord-bot
